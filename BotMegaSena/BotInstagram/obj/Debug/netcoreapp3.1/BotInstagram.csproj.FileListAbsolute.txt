@@ -1,0 +1,14 @@
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\obj\Debug\netcoreapp3.1\BotInstagram.csprojAssemblyReference.cache
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\obj\Debug\netcoreapp3.1\BotInstagram.AssemblyInfoInputs.cache
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\obj\Debug\netcoreapp3.1\BotInstagram.AssemblyInfo.cs
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\bin\Debug\netcoreapp3.1\BotInstagram.exe
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\bin\Debug\netcoreapp3.1\BotInstagram.deps.json
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\bin\Debug\netcoreapp3.1\BotInstagram.runtimeconfig.json
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\bin\Debug\netcoreapp3.1\BotInstagram.runtimeconfig.dev.json
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\bin\Debug\netcoreapp3.1\BotInstagram.dll
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\bin\Debug\netcoreapp3.1\BotInstagram.pdb
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\obj\Debug\netcoreapp3.1\BotInstagram.csproj.CopyComplete
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\obj\Debug\netcoreapp3.1\BotInstagram.dll
+C:\src\BotWebScraping\BotMegaSena\BotInstagram\obj\Debug\netcoreapp3.1\BotInstagram.pdb

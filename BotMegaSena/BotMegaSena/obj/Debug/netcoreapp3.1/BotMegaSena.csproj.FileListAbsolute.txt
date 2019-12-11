@@ -1,0 +1,11 @@
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.exe
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.deps.json
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.runtimeconfig.json
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.runtimeconfig.dev.json
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.dll
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\bin\Debug\netcoreapp3.1\BotMegaSena.pdb
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.csprojAssemblyReference.cache
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.AssemblyInfoInputs.cache
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.AssemblyInfo.cs
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.dll
+C:\src\BotWebScraping\BotMegaSena\BotMegaSena\obj\Debug\netcoreapp3.1\BotMegaSena.pdb
