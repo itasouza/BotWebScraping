@@ -13,9 +13,6 @@
         "packagesPath": "C:\\Users\\PCEstudo\\.nuget\\packages\\",
         "outputPath": "C:\\src\\BotWebScraping\\BotMegaSena\\BotInstagram\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\PCEstudo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -52,8 +52,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PCEstudo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\PCEstudo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -64,9 +63,6 @@
       "packagesPath": "C:\\Users\\PCEstudo\\.nuget\\packages\\",
       "outputPath": "C:\\src\\BotWebScraping\\BotMegaSena\\BotMegaSenaJson\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\PCEstudo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
